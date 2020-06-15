@@ -22,7 +22,7 @@ class Abortion extends React.Component {
         },
         pos03: {
             pos: "Position 3",
-            title: "Partial Censorship leads to a better society",
+            title: "Partial Censorship Leads to a Better Society",
             summary: "Summary: People who take this position believe that by censoring offensive content we can create a better society",
             p1: 'People who support the prohibition of content such as videogames, pornography, violence in music and television because they believe they result in a net negative benefit for society.  When we allow people to participate in crude, debasing, and violent forms of entertainment it reflects our society as a whole.  We see mental illness and mass violence increasing and it is a result of what we allow our kids and the less desirables in society to consume.',
             p2: 'A significant amount of the problems we have in society could be resolved if we reduced the negative influences and themes present in much of today’s media.  Sex and violence are prolific in advertising and entertainment media.  When we appeal to people’s base instincts we should not be surprised when those instincts lead them to ruin.  Mass shooters glorify violent video games and music.  Pornography destroys marriages and sex workers are often abused.  Not only do these things act negatively on the psyche, they are also very addictive.  How many fathers ignore their families to play video games?  How many mothers have to degrade themselves to feed their kids?  How much of our society is plagued by anxiety and fear simply because we are exposed to violence every day on the television?',
@@ -30,7 +30,7 @@ class Abortion extends React.Component {
         },
         pos04: {
             pos: "Position 4",
-            title: "Censorship of undesirable speech",
+            title: "Censorship of Undesirable Speech",
             summary: "Summary: People who take this position believe that people should not be burdened with politics",
             p1: 'People who support the censoring of undesirable materials do so typically for reasons of keeping unity or keeping the peace.  Their belief is that there is speech which can weaken the bonds of society and that we ought to disallow that speech to keep our communities strong and united.   Most of the speech that is perceived as harmful is speech which is damaging to groups, rather than individuals.  Criticizing individuals is not only permissible, but encouraged. If one doctor is corrupt that does not mean all the other doctors in the hospital are corrupt or that the hospital itself is corrupt. It is unfair criticize the group as a whole or the direction the group is taking is unfair because it undermines all the good people in the group. ',
             p2: 'There are other ways for information to cause disharmony, such as information which is difficult to understand, events which may be construed in negative ways, and writing or speech which is purely provocative in nature.  When information is confusing or upsetting, it makes people unhappy and encourages them to spread misinformation.  It is much more difficult to stop rumors after it has started than to prevent a rumor before it happens by being conscientious about what is published.  Those who spread misinformation should be corrected or punished if doing so knowingly.',

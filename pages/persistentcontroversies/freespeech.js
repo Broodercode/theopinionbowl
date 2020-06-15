@@ -3,7 +3,7 @@ import Layout from '../../components/Layout';
 
 class Abortion extends React.Component {
     state = {
-        header: "Abortion",
+        header: "Free Speech",
         pos01: {
             pos: "Position 1",
             title: "Complete Free Speech",

@@ -12,6 +12,15 @@ const Layout = (props) => (
             <meta name="robots" content="all" />
             <meta name="viewport" content="width=device-width, initial-scale=1" />
             <script data-ad-client="ca-pub-6241376391251116" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+     
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-169748631-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-169748631-1');
+</script>
         </Head>
         <NavBar />
         <div className="container">

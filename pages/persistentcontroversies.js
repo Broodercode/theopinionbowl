@@ -11,9 +11,9 @@ const PersistentControversies = () => {
             </div>
             <div className="list-group">
                 <Link href="/persistentcontroversies/freespeech"><a className="list-group-item list-group-item-action">Free Speech</a></Link>
-                {/* <Link href="/persistentcontroversies/abortion"><a className="list-group-item list-group-item-action">Abortion</a></Link>
-                <Link href="/persistentcontroversies/guncontrol"><a className="list-group-item list-group-item-action">Gun Control</a></Link> */}
-
+                <Link href="/persistentcontroversies/abortion"><a className="list-group-item list-group-item-action">Abortion</a></Link>
+                {/* <Link href="/persistentcontroversies/guncontrol"><a className="list-group-item list-group-item-action">Gun Control</a></Link> */}
+            
             </div>
         </Layout>
 

@@ -1,43 +1,42 @@
 import Layout from '../components/Layout';
 import CardBox from '../components/CardBox';
 
+
 class Home extends React.Component {
-  state = { 
+  state = {
     u1: {
       title: "Free Speech Breakdown",
-      content: "The Free Speech Controversy breakdown page has been created.",
-      date: "6/15/2020"
-  },
-  u2: {
-      title: "Abortion Controversy Breakdown",
-      content: "The Abortion Controversy breakdown page has been created.",
-      date: "6/4/2020"
-  },
-  u3: {
-      title: "Free Speech Breakdown",
-      content: "The Free Speech Controversy breakdown page has been created.",
-      date: "6/5/2020"
+      content: "The Free Speech Controversy breakdown page has been created.  All positions are complete.",
+      date: "6/15/2020",
+      path: '/persistentcontroversies/freespeech'
+    },
+    u2: {
+      title: "Abortion Controversy Update",
+      content: "The Abortion Controversy breakdown page has been created.  Late-Term Abortion position is complete",
+      date: "6/17/2020",
+      path: '/persistentcontroversies/abortion'
+    }
+
   }
-   }
-  render() { 
-    return ( 
-      
+  render() {
+    return (
+
       <Layout>
-   
-      <div className="container">
-         <div className="jumbotron">
-             <h1 className="display-3">The Opinion Bowl</h1>
-             <p className="lead">Our goal is to help people see things from another point of view</p>
-             <hr />
-         </div>
-         {/* <CardBox title={this.state.u3.title} content={this.state.u3.content} date={this.state.u3.date}/>
-         <CardBox title={this.state.u2.title} content={this.state.u2.content} date={this.state.u2.date}/> */}
-         <CardBox title={this.state.u1.title} content={this.state.u1.content} date={this.state.u1.date}/>
-         {/* <CardBox title={this.state.title} content={this.state.content}/>  */}
-     </div>
-</Layout>
-     );
+
+        <div className="container">
+          <div className="jumbotron">
+            <h1 className="display-3">The Opinion Bowl</h1>
+            <p className="lead">Our goal is to help people see things from another point of view</p>
+            <hr />
+          </div>
+
+          <CardBox title={this.state.u2.title} content={this.state.u2.content} date={this.state.u2.date} path={this.state.u2.path} />
+          <CardBox title={this.state.u1.title} content={this.state.u1.content} date={this.state.u1.date} path={this.state.u1.path} />
+
+        </div>
+      </Layout>
+    );
   }
 }
- 
+
 export default Home;

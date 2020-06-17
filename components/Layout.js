@@ -15,10 +15,6 @@ const Layout = (props) => (
     gtag('config', 'UA-169748631-1');`,
   }}>
 
-
-
-
-
   </script>
             <title>The Opinion Bowl</title>
             <link rel="stylesheet"

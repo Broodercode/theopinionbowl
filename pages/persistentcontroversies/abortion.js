@@ -6,11 +6,11 @@ class Abortion extends React.Component {
         header: "Abortion",
         pos01: {
             pos: "Position 1",
-            title: "TBD -- Conception",
-            summary: "Summary: TBD -- People who take this position believe life begins at conception and that distinctions past that are mainly semantic.",
-            p1: 'TBD',
-            p2: 'TBD',
-            p3: 'TBD'
+            title: "Life begins at Conception",
+            summary: "Summary: People who take this position believe life begins at conception and that distinctions semantic.",
+            p1: 'People who support life beginning at conception do so because they believe when an egg is fertilized, a human life has already begun.  The scientific community agrees that a fertilized embryo is alive, it has its own genetic code, it is distinct from its mother, and it is a human being.  Our skin cells are human and can be alive but unlike a fertilized embryo they are not whole in themselves.   When an embryo is fertilized it combines the genetics from its parents to becomes a whole, genetically distinct human.',
+            p2: 'Developmental stage is completely irrelevant for determining life.   It doesn’t matter if a fetus is viable outside of the womb because that is related to the state of technology and is the same as saying a fetus is alive in one place but not alive in another.  The heartbeat is also an arbitrary position to determine that life begins because we know that a fertilized embryo alive.  We would not kill a person in a vegetative state if we knew with reasonable certainty that they would survive and recover 9 months later.  A fertilized embryo is no different than this, their state of development is irrelevant because we know that in a few months they will be a fully developed human.',
+            p3: ''
         },
         pos02: {
             pos: "Position 2",

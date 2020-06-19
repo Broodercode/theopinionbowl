@@ -6,6 +6,7 @@ import Head from 'next/head';
 const Layout = (props) => (
     <div>
         <Head>
+        <script data-ad-client="ca-pub-6241376391251116" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-169748631-1"></script>
         <script dangerouslySetInnerHTML={{
     __html: `window.dataLayer = window.dataLayer || [];

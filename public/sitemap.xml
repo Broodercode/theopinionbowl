@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+
+<url>
+  <loc>https://www.theopinionbowl.com/</loc>
+  <lastmod>2020-06-24T17:51:22+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.theopinionbowl.com/currentcontroversies</loc>
+  <lastmod>2020-06-24T17:51:22+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.theopinionbowl.com/persistentcontroversies</loc>
+  <lastmod>2020-06-24T17:51:22+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.theopinionbowl.com/currentcontroversies/antifa</loc>
+  <lastmod>2020-06-24T17:51:22+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.theopinionbowl.com/persistentcontroversies/abortion</loc>
+  <lastmod>2020-06-24T17:51:22+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.theopinionbowl.com/persistentcontroversies/freespeech</loc>
+  <lastmod>2020-06-24T17:51:22+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.theopinionbowl.com/persistentcontroversies/guncontrol</loc>
+  <lastmod>2020-06-24T17:51:22+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

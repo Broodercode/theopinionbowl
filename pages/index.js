@@ -21,6 +21,12 @@ class Home extends React.Component {
       content: "The conception argument has been created.  Extended summary reduced from ~290 words to ~200 words.  Favicon uploaded.  Google AdSense submitted.",
       date: "6/19/2020",
       path: '/persistentcontroversies/abortion'
+    },
+    u4: {
+      title: "Antifa Organization Controversy Created",
+      content: "The page created with both for and against whether Antifa is an organization. ",
+      date: "6/24/2020",
+      path: '/currentcontroversies/antifa'
     }
 
   }
@@ -36,6 +42,7 @@ class Home extends React.Component {
             <hr />
           </div>
 
+          <CardBox title={this.state.u4.title} content={this.state.u4.content} date={this.state.u4.date} path={this.state.u4.path} />
           <CardBox title={this.state.u3.title} content={this.state.u3.content} date={this.state.u3.date} path={this.state.u3.path} />
           <CardBox title={this.state.u2.title} content={this.state.u2.content} date={this.state.u2.date} path={this.state.u2.path} />
           <CardBox title={this.state.u1.title} content={this.state.u1.content} date={this.state.u1.date} path={this.state.u1.path} />

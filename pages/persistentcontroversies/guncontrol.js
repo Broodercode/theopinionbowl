@@ -36,7 +36,11 @@ class GunControl extends Component {
             <div className="container">
                 <div className="jumbotron">
                 <h2>{this.state.header}</h2>
-                <DebateBox pos = {this.state.pos01.pos} title={this.state.pos01.title} summary={this.state.pos01.summary} content={this.state.pos01.content}/>
+                <DebateBox 
+                pos = {this.state.pos01.pos} 
+                title={this.state.pos01.title} 
+                summary={this.state.pos01.summary} 
+                content={this.state.pos01.content}/>
                 <DebateBox pos = {this.state.pos02.pos} title={this.state.pos02.title} summary={this.state.pos02.summary} content={this.state.pos02.content}/>
                 <DebateBox pos = {this.state.pos03.pos} title={this.state.pos03.title} summary={this.state.pos03.summary} content={this.state.pos03.content}/>
                 <DebateBox pos = {this.state.pos04.pos} title={this.state.pos04.title} summary={this.state.pos04.summary} content={this.state.pos04.content}/>

@@ -27,7 +27,13 @@ class Home extends React.Component {
       content: "The page created with both for and against whether Antifa is an organization. ",
       date: "6/24/2020",
       path: '/currentcontroversies/antifa'
-    }
+    },
+    u5: {
+      title: "Antifa Organization Controversy Edited",
+      content: "The Antifa is Not an Organization position has been edited",
+      date: "6/25/2020",
+      path: '/currentcontroversies/antifa'
+    },
 
   }
   render() {
@@ -42,6 +48,7 @@ class Home extends React.Component {
             <hr />
           </div>
 
+          <CardBox title={this.state.u5.title} content={this.state.u5.content} date={this.state.u5.date} path={this.state.u5.path} />
           <CardBox title={this.state.u4.title} content={this.state.u4.content} date={this.state.u4.date} path={this.state.u4.path} />
           <CardBox title={this.state.u3.title} content={this.state.u3.content} date={this.state.u3.date} path={this.state.u3.path} />
           <CardBox title={this.state.u2.title} content={this.state.u2.content} date={this.state.u2.date} path={this.state.u2.path} />
